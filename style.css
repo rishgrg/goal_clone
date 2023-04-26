@@ -6,3 +6,6 @@
       justify-content: space-between;
       list-style:none;
 }
+section.marquee {
+      background-color: #f0725c;
+}
